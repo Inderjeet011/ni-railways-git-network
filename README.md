@@ -1,0 +1,2 @@
+This repository serves as a visual demonstration of Git branching. The commit history is structured like a railway network, with different branches representing train lines (e.g., derry, uk-rol, lrn-harbour) all starting from a central Lanyon Place hub.
+<img width="1410" height="755" alt="Screenshot 2025-08-22 105611" src="https://github.com/user-attachments/assets/136baa24-d4dd-4b93-a760-45fb9c427066" />
